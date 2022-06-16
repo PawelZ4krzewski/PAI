@@ -1,0 +1,13 @@
+.editNote{
+    background-color: black;
+    color: white;
+}
+
+.editNote p {
+    text-align: center;
+    font-size: 30px;
+}
+
+.editNote label{
+    margin-right: 15px;
+}

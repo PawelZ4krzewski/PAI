@@ -1,0 +1,25 @@
+#home-div{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#home-div h1{
+    color: white;
+}
+
+.info{
+    padding: 25px;
+    width: 70%;
+    background-color: #AAA;
+}
+
+.info span{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.info span:hover{
+    font-weight: bold;
+}

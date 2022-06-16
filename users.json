@@ -1,0 +1,18 @@
+{ 
+    "_id" : ObjectId("62ab40dec323e98b9fa8b1c6"), 
+    "username" : "test", 
+    "password" : "098f6bcd4621d373cade4e832627b4f6", 
+    "email" : "test", 
+    "color" : "red", 
+    "date" : ISODate("2022-06-16T14:40:30.815+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("62ab43e97707115b6811f3ae"), 
+    "username" : "admin", 
+    "password" : "21232f297a57a5a743894a0e4a801fc3", 
+    "email" : "admin", 
+    "color" : "admin", 
+    "date" : ISODate("2022-06-16T14:53:29.476+0000"), 
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,35 @@
+.newNote{
+    color: white;
+    border-color: #BF5006;
+    border-style: solid;
+    margin: 10px;
+}
+
+.addNote{
+    font-size: 25px;
+}
+
+.newNote label
+{
+    margin-right: 10px;
+}
+
+
+.newNote input
+{
+    margin-bottom: 10px;
+}
+.newNote button {
+    margin: 2px;
+    background-color: rgb(129, 70, 240);
+    color: #fff;
+    border: 0;
+    border-radius: 4px;
+    padding: 4px 8px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+
+.newNote button:hover {
+    background-color: rgb(129, 70, 200);
+  }

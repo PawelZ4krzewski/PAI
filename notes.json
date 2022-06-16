@@ -1,0 +1,50 @@
+{ 
+    "_id" : ObjectId("62ab429ce9ae6ecbc127ad79"), 
+    "title" : "a 1", 
+    "body" : "a 1", 
+    "image" : "https://fafikowo.com.pl/wp-content/uploads/2021/02/zeby_piesek1-1024x682.jpg", 
+    "owner" : "62ab40dec323e98b9fa8b1c6", 
+    "tags" : "a;b;c", 
+    "publicType" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("62ab42abe9ae6ecbc127ad7b"), 
+    "title" : "b 1", 
+    "body" : "b 1", 
+    "image" : "https://fafikowo.com.pl/wp-content/uploads/2021/02/zeby_piesek1-1024x682.jpg", 
+    "owner" : "62ab40dec323e98b9fa8b1c6", 
+    "tags" : "a;b;c", 
+    "publicType" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("62ab42b4e9ae6ecbc127ad7d"), 
+    "title" : "c 1", 
+    "body" : "c 2", 
+    "image" : "https://fafikowo.com.pl/wp-content/uploads/2021/02/zeby_piesek1-1024x682.jpg", 
+    "owner" : "62ab40dec323e98b9fa8b1c6", 
+    "tags" : "a;b;c", 
+    "publicType" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("62ab42bfe9ae6ecbc127ad7f"), 
+    "title" : "bez a", 
+    "body" : "bez a", 
+    "image" : "https://fafikowo.com.pl/wp-content/uploads/2021/02/zeby_piesek1-1024x682.jpg", 
+    "owner" : "62ab40dec323e98b9fa8b1c6", 
+    "tags" : "b;c", 
+    "publicType" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("62ab452aac070d397e3bde84"), 
+    "title" : "x", 
+    "body" : "x", 
+    "image" : "", 
+    "owner" : "62ab43e97707115b6811f3ae", 
+    "tags" : "", 
+    "publicType" : false, 
+    "__v" : NumberInt(0)
+}

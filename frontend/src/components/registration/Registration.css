@@ -1,0 +1,28 @@
+.registration-div{
+    color: white;
+    font-weight: bold;
+}
+
+.registration-div p{
+    font-size: xx-large;
+}
+
+
+
+.registration-div input{
+    margin:10px;
+}
+.addUserButton {
+    margin: 2px;
+    background-color: rgb(129, 70, 240);
+    color: #fff;
+    border: 0;
+    border-radius: 4px;
+    padding: 4px 8px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+
+.addUserButton:hover {
+    background-color: rgb(129, 70, 200);
+  }

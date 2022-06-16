@@ -1,0 +1,59 @@
+.note{
+    background-color: black;
+    border-color: #BF5006;
+    border-style: solid;
+    margin: 10px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.imageNote{
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imageNote img{
+    width: 50%;
+}
+.textNote{
+    width: 80%;
+}
+.title{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.description{
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.note button {
+    margin: 2px;
+    background-color: rgb(129, 70, 240);
+    color: #fff;
+    border: 0;
+    border-radius: 4px;
+    padding: 4px 8px;
+    cursor: pointer;
+  }
+
+  .note button:hover {
+    background-color: rgb(129, 70, 200);
+  }
+  .note button.delete {
+    background-color: rgb(238, 67, 55);
+  }
+
+  .note button.delete:hover {
+    background-color: rgb(223, 57, 45);
+  }
+  .note button.share {
+    background-color: rgb(55, 67, 255);
+  }
+  .note button.share:hover {
+    background-color: rgb(55, 57, 245);
+  }
